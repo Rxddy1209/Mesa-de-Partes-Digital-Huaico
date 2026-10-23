@@ -1,5 +1,12 @@
 # Mesa de Partes Digital - Huayco
 
+##Integrantes del grupo:
+Ruddy Raraz      Leonel Morales
+Mateo Oroche     Valentino Oroche   Mishel Vilcayaury
+
+##Profesor:
+WILLIAMS ALFONSO CHULLO VILLAGARAY
+
 ## ¿De qué trata el proyecto?
 
 Este proyecto es un prototipo académico hecho en Python para el curso de Fundamentos de Programación. La idea es representar una forma sencilla de registrar reportes de ciudadanos sobre huaicos o deslizamientos y revisar el estado de cada reporte.
