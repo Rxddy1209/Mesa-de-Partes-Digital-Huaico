@@ -5,7 +5,7 @@ Estas pruebas sirven para revisar si las opciones principales funcionan. Hay que
 | N.° | Prueba | Qué hacer | Resultado esperado | Resultado obtenido |
 |---|---|---|---|---|
 | 1 | Registrar reporte | Elegir la opción 1 y completar los datos con información ficticia | Se registra el reporte y aparece un código | Satisfactorio |
-| 2 | Campo vacío | Dejar vacío uno de los campos al registrar | El programa pide ingresar el dato nuevamente | Por completar |
+| 2 | Campo vacío | Dejar vacío uno de los campos al registrar | El programa pide ingresar el dato nuevamente | Satisfactoriamente |
 | 3 | Buscar un reporte | Elegir la opción 2 e ingresar un código existente | Se muestran los datos guardados | Por completar |
 | 4 | Buscar un código inexistente | Ingresar un código que no esté registrado | El programa indica que no lo encontró | Por completar |
 | 5 | Mostrar reportes | Elegir la opción 3 | Se muestran los reportes guardados | Por completar |
