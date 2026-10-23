@@ -12,9 +12,3 @@ Estas pruebas sirven para revisar si las opciones principales funcionan. Hay que
 | 6 | Cambiar estado | Elegir la opción 4 y seleccionar un estado nuevo | Se guarda el nuevo estado | Satisfactorio |
 | 7 | Comprobar guardado | Registrar un reporte, salir y volver a abrir el programa | El reporte sigue guardado | Satisfactorio |
 | 8 | Opción incorrecta | Escribir una opción distinta de 1 a 5 | El programa muestra un aviso de opción no válida | Satisfactorio |
-
-## Evidencias
-
-Colocar capturas del menú, registro, búsqueda y cambio de estado. Las capturas deben usar datos ficticios.
-
-No escribir que una prueba salió bien hasta haberla realizado.
