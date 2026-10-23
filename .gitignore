@@ -1,0 +1,15 @@
+# Archivo local donde se guardan los reportes
+expedientes.json
+expedientes.json.tmp
+
+# Archivos que Python puede generar
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
