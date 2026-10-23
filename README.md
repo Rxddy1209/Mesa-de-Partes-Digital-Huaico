@@ -1,8 +1,7 @@
 # Mesa de Partes Digital - Huayco
 
 ## Integrantes del grupo:
-Ruddy Raraz      Leonel Morales
-Mateo Oroche     Valentino Oroche   Mishel Vilcayaury
+Ruddy Raraz, Leonel Morales, Mateo Oroche, Valentino Oroche, Mishel Vilcayaury
 
 ## Profesor:
 WILLIAMS ALFONSO CHULLO VILLAGARAY
